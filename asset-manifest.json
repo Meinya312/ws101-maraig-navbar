@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-maraig-navbar/static/css/main.f1d6fd5b.css",
+    "main.js": "/ws101-maraig-navbar/static/js/main.bac7b314.js",
+    "static/media/about.png": "/ws101-maraig-navbar/static/media/about.22912ab3cdf9aba48341.png",
+    "static/media/contact.png": "/ws101-maraig-navbar/static/media/contact.6d34b33fa754968750df.png",
+    "static/media/home.png": "/ws101-maraig-navbar/static/media/home.36da94b47f762604b4e0.png",
+    "index.html": "/ws101-maraig-navbar/index.html",
+    "main.f1d6fd5b.css.map": "/ws101-maraig-navbar/static/css/main.f1d6fd5b.css.map",
+    "main.bac7b314.js.map": "/ws101-maraig-navbar/static/js/main.bac7b314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d6fd5b.css",
+    "static/js/main.bac7b314.js"
+  ]
+}
